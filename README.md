@@ -1,5 +1,9 @@
 # FantasySoccer
-In this repository, I'll be studying fictional soccer squad data.
+In this repository, I'll be studying fictional soccer squad data from the following countries, if they actually existed:
+- Czechoslovakia
+- Scandinavia
+- Soviet Union
+- Yugoslavia
 
 Columns to work on the data cleaning/transformation:
 - **Position:** Convert from the abbreviation to the actual position (e.g: GK to Goalkeeper).
